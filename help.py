@@ -1,0 +1,8 @@
+formato_assays = " Ddh\n From\n To\n Leyes...\n Litologia(Tags)\n"
+formato_survey = " Ddh\n From\n TO\n Azimut\n Dip\n"
+formato_collar = " Ddh\n Este_X\n Norte_Y\n Cota_Z\n Length\n"
+help_upload = f"Subir 3 archivos\n\n1. ASSAYS.csv\n{formato_assays}\n2. SURVEY.csv\n{formato_survey}\n3. COLLAR.csv\n{formato_collar}\nNota: Respetar del formato\n de los archivos csv "
+help_view = "Visualiza los archivos subidos\n survey.csv y collar.csv"
+help_configure = "Configurar los parametros\n requeridos para el compositado"
+help_composite = "Calcula el composito con\n los parametros ajustados"
+help_view3d = "Visualizacion de los sondajes\n con las muestras compositadas"
