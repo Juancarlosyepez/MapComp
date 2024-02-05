@@ -41,3 +41,6 @@ Pueden contribuir al proyecto especificando cómo pueden hacerlo. Esto puede inc
 
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
+
+![Vista Previa](/imagenes/vista_previa.png)
+
