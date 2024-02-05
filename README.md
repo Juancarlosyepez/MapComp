@@ -1,8 +1,8 @@
 # **Aplicativo de escritorio que automatiza el compósito de muestras (MapComp)**
 ## **Descripción**
-Bienvenidos a la página del proyecto de [Nombre del Proyecto], una herramienta innovadora diseñada para optimizar el proceso de feature engineering en la Ciencia de Datos e Ingeniería. Esta herramienta nace de la necesidad de simplificar y agilizar la transformación de datos, haciéndola indispensable en contextos donde se aplican modelos de machine learning, redes neuronales, y se realiza análisis exploratorio de datos.
+Bienvenidos a la página del proyecto de MapComp, una herramienta innovadora diseñada para regularizar muestras(composito), para optimizar el proceso de feature engineering en la Ciencia de Datos e Ingeniería. Esta herramienta nace de la necesidad de simplificar y agilizar la transformación de datos, haciéndola indispensable en contextos donde se aplican modelos de machine learning, redes neuronales, y a análisis exploratorio de datos.
 
-Uno de los principales desafíos en el preprocesamiento de datos es la regularización del soporte muestral, una etapa crítica para mantener una longitud uniforme de las muestras en análisis estadísticos y geoestadísticos. [Nombre del Proyecto] es una solución de código abierto que facilita el acceso a datos compositados con unos pocos clics, permitiendo además calcular sus coordenadas espaciales para su uso en modelos de ML y RNA en la analítica geoespacial avanzada.
+Uno de los principales desafíos en el preprocesamiento de datos es la regularización del soporte muestral, una etapa crítica para mantener una longitud uniforme de las muestras en análisis estadísticos y geoestadísticos. MapComp es una solución de código abierto que facilita el acceso a datos compositados con unos pocos clics, permitiendo además calcular sus coordenadas espaciales para su uso en modelos de ML y RNA en la analítica geoespacial avanzada.
 
 ## Características Principales
 
@@ -19,19 +19,18 @@ La creación de MapComp surge de una necesidad personal de contar con herramient
 
 MapComp es especialmente útil para profesionales y académicos en:
 
--    Análisis exploratorio de datos.
+-    Análisis de datos.
 -    Modelos de machine learning y redes neuronales.
 -    Analítica avanzada geoespacial.
 -    Estimación de recursos mineros.
 
 ## Cómo Comenzar
 
-Proporciona instrucciones paso a paso sobre cómo instalar, configurar y utilizar tu herramienta. Esto podría incluir comandos de instalación, ejemplos de código para ejecutar la herramienta y cualquier configuración necesaria.
-
-bash
+Solo tienes que clonar el repositorio a tu pc
 
 # Instalación
-Solo se tiene que descargar el repositorio y abrirlo en visual studio code y ejecutar el archivo principal ui_manager.py
+
+Una vez clonado el  repositorio dberas abrirlo en visual studio code y ejecutar el archivo principal ui_manager.py
 git clone https://github.com/Juancarlosyepez/MapComp.git
 
 ## Contribuir
